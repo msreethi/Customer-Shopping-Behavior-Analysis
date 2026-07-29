@@ -14,7 +14,7 @@ Understanding customer shopping preferences helps businesses improve customer ex
 
 ## Dataset
 
-- **Dataset:** Online vs In-Store Shopping Behaviour Dataset
+- **Dataset:** https://www.kaggle.com/datasets/shree0910/online-vs-in-store-shopping-behaviour-dataset
 - **Source:** Kaggle
 
 ---
